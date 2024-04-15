@@ -1,4 +1,4 @@
-### (https://github.com/sixto-tumulak/project-portfolio)
+### [(https://github.com/sixto-tumulak/project-portfolio]/
   
 requirements
 > vue-cli
